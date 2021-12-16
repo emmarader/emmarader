@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @emmarader
 - 👀 I’m interested in learning about data science, software engineering, web development, and app development.
-- 🌱 I’m currently learning algorithm basics, data structures, and Object-Oriented Programming
-- 💞️ I’m looking to collaborate on simple projects to build my coding portfolio
+- 🌱 I’m currently learning algorithm basics, data structures, and Object-Oriented Programming.
+- 💞️ I’m looking to collaborate on simple projects to build my coding portfolio and develop a mentorship.
 - 📫 You can reach me at emma.rader@ttu.edu
 
 <!---
