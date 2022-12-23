@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @emmarader a third-year computer science major at Texas Tech University, Whitacre College of Engineering.
+- 👋 Hi, I’m @emmarader a fourth-year computer science major at Texas Tech University, Whitacre College of Engineering.
 - 👀 I’m interested in learning about data science/analyzation, cybersecurity, software engineering, web/app development.
 - 🌱 I’m currently learning algorithm design, data structures, and object-oriented programming.
 - 💞️ I’m looking to collaborate on simple projects to build my coding portfolio and develop a mentorship relationship.
