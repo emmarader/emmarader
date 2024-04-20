@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @emmarader a fourth-year computer science major at Texas Tech University, Whitacre College of Engineering.
-- 👀 I’m interested in learning about data science/analyzation, cybersecurity, software engineering, web/app development.
+- 👋 Hi, I’m @emmarader a recent computer science graduate from Texas Tech University, Whitacre College of Engineering.
+- 👀 I’m interested in learning about data science/analyzation and web/app development.
 - 🌱 I’m currently learning algorithm design, data structures, and object-oriented programming.
 - 💞️ I’m looking to collaborate on simple projects to build my coding portfolio and develop a mentorship relationship.
 - 📫 You can reach me at emma.rader@ttu.edu
